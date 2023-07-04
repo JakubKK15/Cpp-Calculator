@@ -1,0 +1,38 @@
+Initial Commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .vs/Calculator/FileContentIndex/448c6fec-1719-481f-88f4-b885ccdeaf75.vsidx
+#	new file:   .vs/Calculator/FileContentIndex/c3ca98e2-ec5c-4d8a-b9fb-6be96d4f8573.vsidx
+#	new file:   .vs/Calculator/FileContentIndex/read.lock
+#	new file:   .vs/Calculator/v17/.suo
+#	new file:   .vs/Calculator/v17/Browse.VC.db
+#	new file:   .vs/Calculator/v17/ipch/AutoPCH/15433b004ec42002/SOURCE.ipch
+#	new file:   Calculator.sln
+#	new file:   Calculator.vcxproj
+#	new file:   Calculator.vcxproj.filters
+#	new file:   Calculator.vcxproj.user
+#	new file:   Source.cpp
+#	new file:   x64/Debug/Calculator.exe
+#	new file:   x64/Debug/Calculator.exe.recipe
+#	new file:   x64/Debug/Calculator.ilk
+#	new file:   x64/Debug/Calculator.log
+#	new file:   x64/Debug/Calculator.pdb
+#	new file:   x64/Debug/Calculator.tlog/CL.command.1.tlog
+#	new file:   x64/Debug/Calculator.tlog/CL.read.1.tlog
+#	new file:   x64/Debug/Calculator.tlog/CL.write.1.tlog
+#	new file:   x64/Debug/Calculator.tlog/Calculator.lastbuildstate
+#	new file:   x64/Debug/Calculator.tlog/Cl.items.tlog
+#	new file:   x64/Debug/Calculator.tlog/link.command.1.tlog
+#	new file:   x64/Debug/Calculator.tlog/link.read.1.tlog
+#	new file:   x64/Debug/Calculator.tlog/link.write.1.tlog
+#	new file:   x64/Debug/Calculator.vcxproj.FileListAbsolute.txt
+#	new file:   x64/Debug/Source.obj
+#	new file:   x64/Debug/vc143.idb
+#	new file:   x64/Debug/vc143.pdb
+#
