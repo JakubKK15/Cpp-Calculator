@@ -25,7 +25,7 @@ After entering the required inputs, the calculator will display the result.
 
 To exit the calculator program, press the close button like you would a browser/any other app.
 
-Notes
+## Notes
 This calculator does not handle advanced features such as parentheses or operator precedence. It performs operations in the order they are entered.
 Division by zero is not allowed, and attempting to divide by zero will result in an error message.
 If an invalid operator is entered, the calculator will display an error message.
