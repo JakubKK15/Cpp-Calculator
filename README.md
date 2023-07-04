@@ -16,16 +16,14 @@ If the compilation is successful, an executable file named calculator will be cr
 
 Run the calculator by typing the following command:
 
-bash
-Copy code
+```bash
 ./calculator
+```
 The calculator will prompt you to enter the first number, operator, and second number.
 
 After entering the required inputs, the calculator will display the result.
 
-You can perform multiple calculations by following the prompts.
-
-To stop the calculator, enter 'n' or 'N' when prompted to perform another calculation.
+To exit the calculator program, press the close button like you would a browser/any other app.
 
 Notes
 This calculator does not handle advanced features such as parentheses or operator precedence. It performs operations in the order they are entered.
